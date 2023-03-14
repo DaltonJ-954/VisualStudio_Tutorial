@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2y+4XrmKwstgrFJwVO6KaD0YuOiLk8aP2P21dbuRBN9Qgt09+QHhY3TeKBozVJ9e+rowkZxyAa8nM53LPKRjxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\scall\\source\\repos\\videoSample\\videoSample\\videoSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scall\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
